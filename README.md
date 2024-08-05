@@ -1,6 +1,6 @@
 👋 Hey there, I'm @bl00dm00nguy!
 
-👀 I'm a passionate 13-year-old coder with a love for Python, Java, HTML, PHP, CSS, JavaScript, Lua, Batch, VBS, and diving into the world of C++. 🚀
+👀 I'm a passionate 15-year-old coder.
 
 🌱 Currently on a journey to be a better person while mastering the art of coding. I believe in constant learning and growth.
 
