@@ -10,6 +10,6 @@
 
 🚀 Achievements: none.. for now
 
-🤝 Let's connect! Reach out to me on Discord: bl00dm00nguy
+🤝 Let's connect! Reach out to me on Discord: danielismyuser
 
 🙌 Always striving to code, collaborate, and create. Let's build something amazing together! 🚀
